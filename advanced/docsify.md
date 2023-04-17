@@ -61,6 +61,40 @@ To understand the items that are `configurable when publishing`, see
 
 You can specify certain configurations that would be present on the`window.$docsify` object when publishing.
 
+![Docsify settings](../assets/new-publishing/markdown-doc-settings.png )
+![Docsify settings](../assets/new-publishing/markdown-doc-settings.png )
+![Docsify settings](../assets/new-publishing/markdown-doc-settings.png )
+![Docsify settings](../assets/new-publishing/markdown-doc-settings.png )
+![Docsify settings](../assets/new-publishing/markdown-doc-settings.png )
+![Docsify settings](../assets/new-publishing/markdown-doc-settings.png )
+![Docsify settings](../assets/new-publishing/markdown-doc-settings.png )
+![Docsify settings](../assets/new-publishing/markdown-doc-settings.png )
+![Docsify settings](../assets/new-publishing/markdown-doc-settings.png )
+![Docsify settings](../assets/new-publishing/markdown-doc-settings.png )
+![Docsify settings](../assets/new-publishing/markdown-doc-settings.png )
+![Docsify settings](../assets/new-publishing/markdown-doc-settings.png )
+![Docsify settings](../assets/new-publishing/markdown-doc-settings.png )
+![Docsify settings](../assets/new-publishing/markdown-doc-settings.png )
+![Docsify settings](../assets/new-publishing/markdown-doc-settings.png )
+![Docsify settings](../assets/new-publishing/markdown-doc-settings.png )
+![Docsify settings](../assets/new-publishing/markdown-doc-settings.png )
+![Docsify settings](../assets/new-publishing/markdown-doc-settings.png )
+![Docsify settings](../assets/new-publishing/markdown-doc-settings.png )
+![Docsify settings](../assets/new-publishing/markdown-doc-settings.png )
+![Docsify settings](../assets/new-publishing/markdown-doc-settings.png )
+![Docsify settings](../assets/new-publishing/markdown-doc-settings.png )
+![Docsify settings](../assets/new-publishing/markdown-doc-settings.png )
+![Docsify settings](../assets/new-publishing/markdown-doc-settings.png )
+![Docsify settings](../assets/new-publishing/markdown-doc-settings.png )
+![Docsify settings](../assets/new-publishing/markdown-doc-settings.png )
+![Docsify settings](../assets/new-publishing/markdown-doc-settings.png )
+![Docsify settings](../assets/new-publishing/markdown-doc-settings.png )
+![Docsify settings](../assets/new-publishing/markdown-doc-settings.png )
+![Docsify settings](../assets/new-publishing/markdown-doc-settings.png )
+![Docsify settings](../assets/new-publishing/markdown-doc-settings.png )
+![Docsify settings](../assets/new-publishing/markdown-doc-settings.png )
+
+
 ### Documentation display name
 
 This takes the value set for your documentation's display name, which would show up in places such as links to your documentation, the sidebar and the title of the HTML document seen by readers.
