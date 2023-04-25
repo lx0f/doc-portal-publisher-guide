@@ -184,3 +184,6 @@ pie
     "Magnesium" : 10.01
     "Iron" :  5
 ```
+
+[blank.pdf](https://github.com/lx0f/doc-portal-user-guide/files/11320368/blank.pdf)
+
