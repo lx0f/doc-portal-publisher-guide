@@ -31,6 +31,12 @@
       mermaid.initialize({ startOnLoad: false });
 
       window.$docsify = {
+	alias: {
+	  "/using-regexp-capture-groups/(+*)": "/replaced/$1", // regexp
+	  "/goto/youtube": "/youtube",
+	  "/youtube": "https://vimeo.com",
+          "/.*/_sidebar.md": "/_sidebar.md",
+	},
         name: "My Documentation", // Must configure when publishing
         hideSidebar: false, // Configurable when publishing
         basePath: "", // Configurable when publishing
