@@ -7,4 +7,4 @@
 
 ---
 
-- [Back](../get-started.md)
+- [Back](../get-started)
