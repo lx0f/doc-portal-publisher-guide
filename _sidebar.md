@@ -1,8 +1,8 @@
 - [Overview](/)
   - [Get started](get-started)
-- [Docsify configuration](advanced/docsify)
-  - [Markdown features](advanced/markdown-features)
 - **Advanced features**
+  - [Docsify configuration](advanced/docsify)
+  - [Markdown features](advanced/markdown-features)
   - [Prepaid](advanced/mermaid-prepaid)
   - [Diagrams with Mermaid](advanced/mermaid)
   - [Overview](advanced/mermaid-overview)
