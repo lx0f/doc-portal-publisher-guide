@@ -7,6 +7,11 @@
 - [Overview](mermaid-overview)
 - [Publishing settings](publishing-settings)
 
+**Another**
+
+- [Here](another/here)
+- [Why](another/why)
+
 ---
 
 - [Back](../get-started)
