@@ -12,6 +12,10 @@
 - [Here](another/here)
 - [Why](another/why)
 
+**Try Absolute**
+
+- [Get Started](/get-started)
+
 ---
 
 - [Back](../get-started)
