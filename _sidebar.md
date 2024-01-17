@@ -14,5 +14,5 @@
 - [Issues](issues)
 - [Showcase](showcase)
 - [Introduction](/docs/home.md)
-- [Interpreting the Guidelines](/docs/interpeting-guidelines.md)
+- [Interpreting the Guidelines](/docs/interpreting-guidelines.md)
 - [Service Design Principles](/docs/service-design.md)
