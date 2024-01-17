@@ -12,4 +12,6 @@
   - [Collaborative publishing](/collaboration/collaborative-publishing)
 - [Limitations](limitations)
 - [Issues](issues)
-- [Showcase](showcase)
+- [Showcase](showcase)- [Introduction](/docs/home.md)
+- [Interpreting the Guidelines](/docs/interpeting-guidelines.md)
+- [Service Design Principles](/docs/service-design.md)
