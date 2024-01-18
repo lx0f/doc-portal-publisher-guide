@@ -1,18 +1,26 @@
-- [Overview](/)
-  - [Get started](/get-started)
-- **Advanced features**
-  - [Docsify configuration](/advanced/docsify)
-  - [Markdown features](/advanced/markdown-features)
-  - [Prepaid](/advanced/mermaid-prepaid)
-  - [Diagrams with Mermaid](/advanced/mermaid)
-  - [Overview](/advanced/mermaid-overview)
-  - [Publishing settings](/advanced/publishing-settings)
-- Collaboration
-  - [Teams and permissions](/collaboration/teams-and-permissions)
-  - [Collaborative publishing](/collaboration/collaborative-publishing)
-- [Limitations](limitations)
-- [Issues](issues)
-- [Showcase](showcase)
 - [Introduction](/docs/home.md)
 - [Interpreting the Guidelines](/docs/interpreting-guidelines.md)
 - [Service Design Principles](/docs/service-design.md)
+
+**Absolute Paths**
+
+- [Introduction](/introduction)
+- [Overview](/overview.md)
+- API
+  - [GetUser](/api/get-user)
+  - [UpdateUser](/api/update-user.md)
+- [Limitations](limitations)
+- [Aspirations](aspirations.md)
+- Foo
+  - [Bar](foo/bar)
+  - [John Doe](foo/john-doe.md)
+
+**Relative Paths**
+
+- [Hello](./hello)
+- [Bye](./bye.md)
+- Nested
+  - [One](./nested/one)
+  - [Two](./nested/two.md)
+- [Back](../back)
+- [Forward](../forward.md)
