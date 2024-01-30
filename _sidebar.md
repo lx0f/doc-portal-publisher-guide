@@ -32,5 +32,5 @@
 **What**
 
 - [Done](/)
-- [External](http://localhost:4321/docs/doc-tortle-user-guide)
+- [External](https://docs.developer.tech.gov.sg/docs/doc-tortle-user-guide)
 - [Youtube](https://youtube.com)
