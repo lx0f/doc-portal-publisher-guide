@@ -42,4 +42,4 @@
 - [**Folder Link 1**](folder-link-one)
   - [Link In Folder 1](link-in-folder-one)
 - [Folder Link 2](folder-link-two)
-  - [Link In Folder 2](link-in-folder-two)
+  - [**Link In Folder 2**](link-in-folder-two)
